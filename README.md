@@ -29,4 +29,4 @@ desenvolvimento da App
 
 A avalição do projectio será feito mediante defesa, na qual o grupo apresentará o resultado de
 seu trabalho, e em seguida será solicitado a cada membro do grupo que execute determinadas
-acções de acordo a um cenário de trabalho definido
+acções de acordo a um cenário de trabalho definido. 
